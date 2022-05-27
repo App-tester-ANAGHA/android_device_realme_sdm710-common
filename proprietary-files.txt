@@ -293,7 +293,7 @@ vendor/lib/vendor.display.color@1.4.so
 vendor/lib/vendor.display.color@1.5.so
 vendor/lib/vendor.display.postproc@1.0.so
 
-#DPM - from LA.UM.9.8.r1-02700-SDM710.0
+# DPM - from LA.UM.9.8.r1-02700-SDM710.0
 system_ext/bin/dpmd|bc22fa258f3975744e248dc7d9f26a00a9981ca7
 system_ext/etc/dpm/dpm.conf|95e27da8c989e96c6faea6f0697bce11955b62a5
 system_ext/etc/init/dpmd.rc|738b638ff04cda368e22c03e16baf90ba157a6fc
